@@ -1,0 +1,109 @@
+[
+    {
+      "Date": "01/01/2024 05:47:29",
+      "Type": "Interest Payment",
+      "Amount": 196.1,
+      "Units": "-",
+      "Realized Equity Change": 196.1,
+      "Realized Equity": 51301.49,
+      "Balance": 46667.63,
+      "Position ID": "-",
+      "Asset type": "",
+      "NWA": 0
+    },
+    {
+      "Date": "02/01/2024 00:11:54",
+      "Type": "Open Position",
+      "Details": "AAPL/USD",
+      "Amount":  1,
+      "Units": "1",
+      "Realized Equity Change": 0,
+      "Realized Equity":  51274.70 ,
+      "Balance":  45890.87,
+      "Position ID": "2606690045",
+      "Asset type": "Crypto",
+      "NWA": 0
+    }, {
+        "Date": "15/01/2024 00:11:54",
+        "Type": "Open Position",
+        "Details": "TSLA/USD",
+        "Amount":  2,
+        "Units": "2",
+        "Realized Equity Change": 0,
+        "Realized Equity":  51274.70 ,
+        "Balance":  45890.87,
+        "Position ID": "2606690045",
+        "Asset type": "Crypto",
+        "NWA": 0
+      },
+
+    {
+      "Date": "08/01/2024 01:14:11",
+      "Type": "Dividend",
+      "Details": "PBR.A/USD",
+      "Amount": 0.41,
+      "Units": "-",
+      "Realized Equity Change": 0.41,
+      "Realized Equity": 51302.68,
+      "Balance": 46668.82,
+      "Position ID": "2287611156",
+      "Asset type": "Stocks",
+      "NWA": 0
+    },
+    {
+      "Date": "08/01/2024 01:14:11",
+      "Type": "Dividend",
+      "Details": "PBR.A/USD",
+      "Amount": 0.5,
+      "Units": "-",
+      "Realized Equity Change": 0.5,
+      "Realized Equity": 51303.18,
+      "Balance": 46669.32,
+      "Position ID": "2335589768",
+      "Asset type": "Stocks",
+      "NWA": 0
+    },
+
+    {
+        "Date": "02/02/2024 00:11:54",
+        "Type": "Open Position",
+        "Details": "AAPL/USD",
+        "Amount":  1,
+        "Units": "1",
+        "Realized Equity Change": 0,
+        "Realized Equity":  51274.70 ,
+        "Balance":  45890.87,
+        "Position ID": "2606690045",
+        "Asset type": "Crypto",
+        "NWA": 0
+      },
+
+    {
+        "Date": "28/02/2024 00:11:54",
+        "Type": "Position closed",
+        "Details": "AAPL/USD",
+        "Amount":  1,
+        "Units": "1",
+        "Realized Equity Change": 0,
+        "Realized Equity":  51274.70 ,
+        "Balance":  45890.87,
+        "Position ID": "2606690045",
+        "Asset type": "Crypto",
+        "NWA": 0
+      },
+
+      {
+        "Date": "15/03/2024 00:11:54",
+        "Type": "Position closed",
+        "Details": "TSLA/USD",
+        "Amount":  2,
+        "Units": "2",
+        "Realized Equity Change": 0,
+        "Realized Equity":  51274.70 ,
+        "Balance":  45890.87,
+        "Position ID": "2606690045",
+        "Asset type": "Crypto",
+        "NWA": 0
+      }
+  ]
+  

@@ -1,0 +1,133 @@
+[
+    
+    {
+        "DATE": "2021-02-01",
+        "Stock A": "4",
+        "Stock B": "2",
+        "Nvidia": "4",
+        "Stock C": "1",
+        "Home - Athens": "8",
+        "Cash": "4",
+        "realized equity theor": "14",
+        "realized equity real": "11",
+        "Events": ""
+    },
+    
+    {
+        "DATE": "2021-06-01",
+        "Stock A": "4",
+        "Stock B": "2",
+        "Nvidia": "4",
+        "Stock C": "1",
+        "Home - Athens": "8",
+        "Cash": "4",
+        "realized equity theor": "14",
+        "realized equity real": "11",
+        "Events": ""
+    },
+    {
+        "DATE": "2021-02-03",
+        "Stock A": "4",
+        "Home - Athens": "8",
+        "Stock B": "2",
+        "Nvidia": "4",
+        "Stock C": "1",
+        "Cash": "4",
+        "realized equity theor": "14",
+        "realized equity real": "11",
+        "Events": ""
+    },
+
+    {
+        "DATE": "2023-06-01",
+        "Stock A": "5",
+        "Home - Athens": "8",
+        "Stock B": "3.8",
+        "Nvidia": "3.112",
+        "Stock C": "2",
+        "Cash": "4",
+        "realized equity theor": "14",
+        "realized equity real": "11",
+        "Events": ""
+    },
+    {
+        "DATE": "2023-06-02",
+        "Stock A": "4",
+        "Home - Athens": "8",
+        "Stock B": "2",
+        "Nvidia": "4",
+        "Stock C": "1",
+        "Cash": "4",
+        "realized equity theor": "14",
+        "realized equity real": "11",
+        "Events": ""
+    },
+    {
+        "DATE": "2023-06-05",
+        "Stock A": "4",
+        "Nvidia": "4",
+        "Stock B": "6",
+        "Home - Athens": "8",
+        "Stock C": "2",
+        "Cash": "2",
+        "realized equity theor": "15",
+        "realized equity real": "14",
+        "Events": "Bought 1 stock B"
+    },
+    {
+        "DATE": "2023-06-10",
+        "Stock A": "3",
+        "Stock B": "9",
+        "Stock C": "1",
+        "Nvidia": "4",
+        "Cash": "2",
+        "Home - Athens": "8",
+        "realized equity theor": "19",
+        "realized equity real": "15",
+        "Events": "SOLD NVIDIA"
+    },
+    {
+        "DATE": "2023-06-14",
+        "Stock A": "5",
+        "Home - Athens": "8",
+        "Stock B": "9",
+        "Stock C": "3",
+        "Cash": "2",
+        "realized equity theor": "14",
+        "realized equity real": "19",
+        "Events": ""
+    },
+    {
+        "DATE": "2023-07-01",
+        "Stock A": "3",
+        "Stock B": "6",
+        "Stock C": "3",
+        "Home - Athens": "8",
+        "Cash": "2",
+        "realized equity theor": "29",
+        "realized equity real": "14",
+        "Events": ""
+    },
+    {
+        "DATE": "2023-07-05",
+        "Stock A": "5",
+        "Stock B": "18",
+        "Stock C": "4",
+        "Home - Athens": "8",
+        "Cash": "2",
+        "realized equity theor": "25",
+        "realized equity real": "29",
+        "Events": ""
+    },
+    {
+        "DATE": "2023-07-24",
+        "Stock A": "0",
+        "Stock B": "15",
+        "Stock C": "0",
+        "Cash": "7",
+        "Home - Athens": "8",
+        "realized equity theor": "18",
+        "realized equity real": "22",
+        "Events": "Sold all Stock A"
+    }
+]
